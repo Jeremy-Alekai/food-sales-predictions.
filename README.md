@@ -1,7 +1,12 @@
 
-**sales prediction for food items sold at various stores**
+**SALES PREDICTION FOR FOOD ITEMS SOLD AT VARIOUS STORES**
 
-**Author: Anecho Jeremy Stewart**
+
+
+Author: Anecho Jeremy Stewart
+
+
+
 
 **Business problem:**
 
